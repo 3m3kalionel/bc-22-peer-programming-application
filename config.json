@@ -1,8 +1,0 @@
-config = [{
-	"apiKey": "AIzaSyAVGWE5trc0RZ9DkYgMT4SfC-4p1dnBhWk",
-    "authDomain": "firepad-tests.firebaseapp.com",
-    "databaseURL": "https://firepad-tests.firebaseio.com",
-    "projectId": "pair-programming-application",
-    "storageBucket": "pair-programming-application.appspot.com",
-    "messagingSenderId": "20264414160"
-}];
