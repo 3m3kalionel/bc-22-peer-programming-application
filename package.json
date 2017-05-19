@@ -1,0 +1,26 @@
+{
+  "name": "peerprogrammingapplication",
+  "version": "1.0.0",
+  "description": "an application that enables simultaneous code and text editing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3m3kalionel/bc-22-peer-programming-application.git"
+  },
+  "keywords": [
+    "firepad",
+    "codemirror"
+  ],
+  "author": "emeka okoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3m3kalionel/bc-22-peer-programming-application/issues"
+  },
+  "homepage": "https://github.com/3m3kalionel/bc-22-peer-programming-application#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
